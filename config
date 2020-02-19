@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "bitbucket"]
+	url = https://Shrishti_Hore@bitbucket.org/heutechnologies/weapon-detection.git
+	fetch = +refs/heads/*:refs/remotes/bitbucket/*

@@ -1,0 +1,52 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   ../heu_final_weapons.ipynb
+#	new file:   heu_final_weapons.ipynb
+#
+# Untracked files:
+#	../.DS_Store
+#	../._.DS_Store
+#	../Heu_Data_Exploration_Analysis.ipynb
+#	../Initial_EDA.ipynb
+#	../README-features.pdf
+#	../UCSD_Anomaly_Dataset.tar.gz
+#	../UCSD_Anomaly_Dataset.v1p2/
+#	../Video-Anomaly-Detection-master.zip
+#	../Video-Anomaly-Detection-master/
+#	../__pycache__/
+#	../conSTAE.py
+#	../convAE (1).ipynb
+#	../convAE.ipynb
+#	../convAE.py
+#	../convLSTMAE.py
+#	../convSTAE.py
+#	../convae_new.py
+#	../epochs2_weapons.PNG
+#	../epochs3_weapons.PNG
+#	../epochs4_weapons.PNG
+#	../epochs_weapons.PNG
+#	../features/
+#	../kaggle.json
+#	../main.py
+#	../mapping.csv
+#	../model.hdf5
+#	../nypedestrians.mp4
+#	../parameters_encoded.json
+#	../parameters_encoded.txt
+#	../readme.py
+#	../shrishti_heu_signed_offer_letter.pdf
+#	../silhouettes.zip
+#	../table for cross entropy.PNG
+#	../train_acc.PNG
+#	../train_acc_2.PNG
+#	../ucsdpeds_feats.zip
+#	../utils.py
+#	../weapon-detection/
+#
