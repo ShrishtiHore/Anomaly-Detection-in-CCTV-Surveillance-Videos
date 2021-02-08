@@ -69,7 +69,7 @@ Autoencoders consists of 4 main parts:
 - Whether it is normal or abnormal
 
 **Results**
-![result]()
+![result](https://github.com/ShrishtiHore/Anomaly-Detection-in-CCTV-Surveillance-Videos/blob/master/Results/anomaly.PNG)
 
 **References**
 
