@@ -42,9 +42,13 @@ This projects detect Anomalous Behavior through live CCTV camera feed to alert t
 Autoencoders consists of 4 main parts:
 
 1- Encoder: In which the model learns how to reduce the input dimensions and compress the input data into an encoded representation.
+
 2- Bottleneck: which is the layer that contains the compressed representation of the input data. This is the lowest possible dimensions of the input data.
+
 3- Decoder: In which the model learns how to reconstruct the data from the encoded representation to be as close to the original input as possible.
+
 4- Reconstruction Loss: This is the method that measures measure how well the decoder is performing and how close the output is to the original input.
+
 - The training then involves using back propagation in order to minimize the network’s reconstruction loss.
 - Architecture : The network architecture for autoencoders can vary between a simple FeedForward network, LSTM network or Convolutional Neural Network depending on the use case.
 
