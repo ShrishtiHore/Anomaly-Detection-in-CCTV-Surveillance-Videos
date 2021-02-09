@@ -37,6 +37,8 @@ This projects detect Anomalous Behavior through live CCTV camera feed to alert t
 - Autoencoder is an unsupervised artificial neural network that learns how to efficiently compress and encode data then learns how to reconstruct the data back from the reduced encoded representation to a representation that is as close to the original input as possible.
 - Autoencoder, by design, reduces data dimensions by learning how to ignore the noise in the data.
 
+![autoencoder](https://github.com/ShrishtiHore/Anomaly-Detection-in-CCTV-Surveillance-Videos/blob/master/Results/anomaly.PNG)
+
 **Autoencoder Components:**
 
 Autoencoders consists of 4 main parts:
